@@ -31,7 +31,7 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="TELECENTRO", Telefe
-http://190.7.19.197:232/play/a059/index.m3u8
+http://200.219.40.1:8000/play/a0fd/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="TELECENTRO", Canal 26
 http://200.80.230.123:8000/play/a01r/index.m3u8
