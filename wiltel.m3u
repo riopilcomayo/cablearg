@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="TELECENTRO", Wiltel
+
+
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="TELECENTRO", La Nación +
 http://200.80.230.123:8000/play/a01s/index.m3u8
 
