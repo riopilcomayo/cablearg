@@ -197,9 +197,6 @@ http://200.80.230.123:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
 http://200.80.230.123:8000/play/a02w/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/27977740.jpg" group-title="Entretenimiento", TNT Novelas
-http://190.60.37.154:45000/play/a045/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="Entretenimiento" , STUDIO UNIVERSAL
 http://200.80.230.123:8000/play/a022/index.m3u8
 
@@ -231,6 +228,9 @@ http://200.80.230.123:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Varios", Discovery TLC
 http://181.78.109.48:9998/play/a04o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.antina.com.ar/img/grilla/theater.png" tvg-description="Cultural" audio-track="spa" group-title="Varios", Discovery Theater
+http://190.96.112.22:9202/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="Varios", Mas Chic
 http://200.115.96.61:9090/play/a0dj/index.m3u8
