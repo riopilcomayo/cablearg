@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68224482c5d53e1351aaf2f2" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="locales", Canal Claro
-https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/17nlvY7TZkJ8JxLV8EsRrJ/165f3a1fe19f6db1c390c3dc6423ad66/CC_canal-7.png?fm=webp&q=80" group-title="locales" , CANAL DE LA CIUDAD
 http://200.80.230.123:8000/play/a06e/index.m3u8
@@ -130,15 +128,6 @@ http://200.80.230.123:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2jh9KUAX0pFmFIQdx0hYAN/755b89fb275f55001259b7386904495d/28_DisneyJr.png?fm=webp&q=80" group-title="Infantiles" , Disney Junior
 http://200.80.230.123:8000/play/a0ay/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1l5rQEtOVHxuQK62jbIaQl/1bd3e287fddd97c71cf2f3b5d9e5fe85/Canal_-_TeenNick.png?fm=webp&q=80" group-title="Infantiles" , Teen Nick
-http://181.188.216.5:18000/play/a0jq/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1KehLI8MzjpPqlQQV9DWop/7ac7011448316d0a2bf3d14fce7f59ff/32_NickJr.png?fm=webp&q=80" group-title="Infantiles" , Nick Jr
-http://200.80.230.123:8000/play/a06u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4FfqGZIakO1SIpDRZH4EZE/08f366576db2f3d05b7e56e2197454cc/31_NickHD.png?fm=webp&q=80" group-title="Infantiles" , Nick HD
-http://200.80.230.123:8000/play/a0b0/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/12DDQ6rj1D1XJgbfFJlE7Y/25ac07e1aba869cb590ecece1418a9f4/35_CartoonNetworkHD.png?fm=webp&q=80" group-title="Infantiles" , Cartoon Network HD
 http://200.80.230.123:8000/play/a075/index.m3u8
 
@@ -229,12 +218,6 @@ http://138.121.114.86:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5PRN7IHqqJ59ipIqgvIkjQ/88e18c56e8c2fff01de217ed916abb47/67_Film_Arts.png?fm=webp&q=80" group-title="Entretenimiento" , Film & Arts
 http://200.80.230.123:8000/play/a030/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/76LedPqmnaFTMC5WzIuHaj/985f557cf7d4b35aeb5340a5978d2e98/70_ParamountChannel.png?fm=webp&q=80" group-title="Entretenimiento" , Paramount Channel
-http://200.80.230.123:8000/play/a02y/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3SbL9dYy1msHrR6CNYnqcE/01d4b5df1c775d40721449f71aadeda5/71_ComedyCentral.png?fm=webp&q=80" group-title="Entretenimiento" , Comedy Central
-http://200.80.230.123:8000/play/a02x/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/69tV4QpbgqFdQoLLgzQxB1/3aff5e0e14c47a614e60fd4594f2f213/341-cine.ar.png?fm=webp&q=80" group-title="Entretenimiento" , CINE AR 
 http://200.80.230.123:8000/play/a024/index.m3u8
 
@@ -245,7 +228,8 @@ http://190.60.37.154:45000/play/a043/index.m3u8
 http://38.44.109.41:8003/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/dxjEQOGHXp4wEckENKXFT/f525dcd5d21914ca2c54cbebabf62cb1/75_CanalClaroHD.png?fm=webp&q=80" group-title="Entretenimiento", Canal Claro
-http://200.60.124.19:29000/play/a04w/index.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
+
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7icW4eGEsDwYW0SGbEizl0/11e491f83fef667f6b5242efe73ce4c5/Premium_04_HBO.png?fm=webp&q=80" group-title="Premium" , HBO
 http://200.80.230.123:8000/play/a06o/index.m3u8
@@ -307,8 +291,7 @@ http://160.20.165.246:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1YidEkapW8T04qZBXENP7N/e8ae3d22eaa313daf1df602b2295860a/79_ElGourmetNEW.png?fm=webp&q=80" group-title="Varios" , El Gourmet
 http://200.80.230.123:8000/play/a06w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3vkHgQ8kJJA1LRCK8LzZzZ/f25831b884baae7d80d8fab795a9be81/80_MasChic.png?fm=webp&q=80" group-title="Varios" , MAS CHIC
-http://200.115.96.61:9090/play/a0dj/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="Culturales", E! 
 http://200.60.124.19:29000/play/a0aj/index.m3u8
@@ -334,6 +317,9 @@ http://200.80.230.123:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1Np2cHnQxvzXiPeMMxuJpn/0d128c7aad11e845b0af560b64207aba/90_DiscoveryWorld.png?fm=webp&q=80" group-title="Culturales" , Discovery World 
 http://200.80.230.123:8000/play/a031/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/eg0Qo0QB4c3KAVMz6lZIU/4b374c4a0dc4ae278db863e404364285/91_DiscoveryTheater.png?fm=webp&q=80" group-title="Culturales", Discovery Theater
+http://190.96.112.22:9202/play/a01p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4rMHDLiFoR4TXAfeAlXiF1/5bfcfe97838024d7e4d556e0eec8e997/93_NatGeo.png?fm=webp&q=80" group-title="Culturales" , National Geographic 
 http://200.80.230.123:8000/play/a05g/index.m3u8
 
@@ -355,11 +341,18 @@ https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ON8A9RJLupcBvYnw9uKhN/e2163b8f88b1bcf59259e328a0457698/97_CNNEspanol.png?fm=webp&q=80" group-title="Internacional" , CNN Español 
 http://200.80.230.123:8000/play/a0ax/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/13QrJSn2wmGrz5dnQPIQAM/e939099ee2df6a99bd6979e0f8d90dd3/98_CNN.png?fm=webp&q=80" group-title="Internacional" , CNN 
+http://179.1.148.246:8888/play/a0ch/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7dFW8ObBhLGbX7a2srHRzD/b611742e2e344fa79f56b49566134bd6/101_France24.png?fm=webp&q=80" group-title="Internacional" , France 24
 http://200.121.48.17:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2xKKf5FbEuF0k9lQFVpCG6/5c9be8f8de1ae9570b4311edf4c64c88/103_DeutscheWelleAmerika.png?fm=webp&q=80" group-title="Internacional" , Deutsche Welle Amerika
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2F8MPtMgLmmXNQpDdups4e/337ac83dd1772ba3786a83a00ed32659/104_RAI.png?fm=webp&q=80" group-title="Internacional" , RAI
+http://181.209.72.149:8000/play/a06u/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/iy6VXTjNyN9R9TRHtXYvK/e55f727585e08507bd216b796714e6b3/Canal_-_UCL.png?fm=webp&q=80" group-title="Varios" , UCL
@@ -371,7 +364,8 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/RqC73vuWk0YQfLemCXD18/51a8e03ea056af295ef56e8e0ae5a71c/105_24H.png?fm=webp&q=80" group-title="Internacional" , 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7EDk6R0l26hmaHqwe9Zshw/13ab70eb9151b02f4677b51631862e6e/106_IntiNetwork.png?fm=webp&q=80" group-title="Varios" , INTI
+http://45.171.66.73:8000/play/a08a/index.m3u8
 
 
 
@@ -385,6 +379,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/caPKMqYCXgAQhOjPaGkPy/0513c63b1f893c194180ee65e26b437b/109_Enlace.png?fm=webp&q=80" group-title="Religioso" , Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6okPZv3W5RtRIsVojKDFLW/747347789970bd2f7e7740c18059fee4/110_ESNE.png?fm=webp&q=80" group-title="Religioso" , Esne
+http://38.41.8.1:8000/play/a069
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1iJB3U2mDD5jY9BFlcJSSx/36926083f603ee67475904a805a2a48e/Canal_-_Orbe21.png?fm=webp&q=80" group-title="Religioso" , ORBE 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
@@ -401,24 +398,6 @@ http://200.80.230.123:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica" , CM
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4GowLVlc2RoBBB34weJeEP/e702560df8180ab04559ad4e2ef5ba12/114_MTV.png?fm=webp&q=80" group-title="Musica" , MTV
-http://200.80.230.123:8000/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="Musica" , MTV Hits
-http://200.229.147.210:8000/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
-http://200.80.230.123:8000/play/a0ag/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/CgwggygXgjsIHg6swkMw6/ca9e373606cd48f2d40d8a937ec686ba/116_MTVLive.png?fm=webp&q=80" group-title="Musica" , MTV Live
-http://200.229.147.210:8000/play/a0b0/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3LcnQAKKgV9sd4Y34s4zYO/ea4aa3207a2510542bea62240520876b/Canal_-_MTV80s.png?fm=webp&q=80" group-title="Musica" , MTV 80's
-http://170.239.188.252:8000/play/a09c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/FgFGNa1nlJe1421Gml6tS/973fd196608694bb8250967c8dd026c9/120_NickMusic.png?fm=webp&q=80" group-title="Musica" , Nick Music
-http://38.49.128.38:8000/play/a0lt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/QYsFZTANMLqngS1NuqlDV/2d74d66512950c64c662bdf3be99ee7f/121_HTV.png?fm=webp&q=80" group-title="Musica" , HTV
 http://38.49.128.38:8000/play/a0b7/index.m3u8
