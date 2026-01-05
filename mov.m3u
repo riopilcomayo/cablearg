@@ -45,13 +45,8 @@ http://200.80.230.123:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports  
 http://200.80.230.123:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Premium 
-http://200.80.230.123:8000/play/a078/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports 
-http://200.80.230.123:8000/play/a0bk/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5zbuGK96V1FppjDgF7JpdB/1672ccdba4ca5ac23f3b48537b1af595/21_Garage.png?fm=webp&q=80" group-title="Deportes" , Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="Deportes", FOX Sports
 http://200.80.230.123:8000/play/a07j/index.m3u8
@@ -61,6 +56,16 @@ http://200.80.230.123:8000/play/a0aa/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Deportes", FOX Sports 3
 http://200.80.230.123:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Premium 
+http://200.80.230.123:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports 
+http://200.80.230.123:8000/play/a0bk/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
 http://200.80.230.123:8000/play/a0ab/index.m3u8
